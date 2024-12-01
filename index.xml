@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joxn00</title>
+    <link>https://joxn00.github.io/</link>
+    <description>Recent content on Joxn00</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 21:58:30 +0100</lastBuildDate>
+    <atom:link href="https://joxn00.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newpost</title>
+      <link>https://joxn00.github.io/posts/newpost/</link>
+      <pubDate>Sun, 01 Dec 2024 21:58:30 +0100</pubDate>
+      <guid>https://joxn00.github.io/posts/newpost/</guid>
+      <description>&lt;p&gt;this is the content&lt;/p&gt;&#xA;&lt;p&gt;&amp;lsquo;&amp;lsquo;&amp;lsquo;python&lt;/p&gt;&#xA;&lt;p&gt;print(&amp;ldquo;Hello World&amp;rdquo;)&lt;/p&gt;&#xA;&lt;p&gt;&amp;rsquo;&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
